@@ -172,12 +172,6 @@
 
         .del-btn {
             flex: auto;
-        }
-
-     
-
-        
-
-        
+        } 
     }
     </style>
